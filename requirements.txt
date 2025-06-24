@@ -1,0 +1,37 @@
+# Core RAG libraries
+llama-index>=0.10.0
+langchain>=0.1.0
+langchain-community>=0.0.20
+
+# LLM and Embedding models
+ollama>=0.1.0
+sentence-transformers>=2.2.0
+transformers>=4.30.0
+
+# Document processing
+python-docx>=0.8.11
+PyPDF2>=3.0.0
+pypdf>=3.15.0
+unstructured>=0.10.0
+
+# Vector stores
+chromadb>=0.4.0
+faiss-cpu>=1.7.4
+
+# Data processing and visualization
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Jupyter notebook support
+jupyter>=1.0.0
+ipykernel>=6.25.0
+
+# Utilities
+tqdm>=4.65.0
+pathlib2>=2.3.7
+python-dotenv>=1.0.0
+
+# Optional: For PDF generation
+reportlab>=4.0.0 
